@@ -17,3 +17,6 @@ end
 
 say_hello_world_ten_times
 
+def greeting
+  # Leave a line break for the method body
+end
